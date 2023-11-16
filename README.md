@@ -182,7 +182,7 @@ apt-get install bind9 -y
 
 
 ### Soal 1
-Semua CLIENT harus menggunakan konfigurasi dari DHCP Server.
+Semua CLIENTS harus menggunakan konfigurasi dari DHCP Server.
 Register domain berupa riegel.canyon.a09.com untuk worker Laravel dan granz.channel.a09.com untuk worker PHP,
 sehinnga jalankan command berikut (no1.sh) di DNS Server (Heiter):
 ```
